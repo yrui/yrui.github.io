@@ -5,12 +5,12 @@ title:               Data Analysis for Economics
 tagline:             'A Modern Introduction'
 description:         'Data Analysis for Economics'
 url:                 'http://yrui.github.io'
-baseurl:             '/data-analysis'
+baseurl:             ''
 
 # About/contact
 author:
   name:              Jiaming Mao
-  url:               https://jiamingmao.github.io
+  url:               http://yrui.github.io
   email:             jmao@xmu.edu.cn
 
 # Permalinks
